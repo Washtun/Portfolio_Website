@@ -4,7 +4,7 @@ This is a personal portfolio website that highlights my skills, background, and 
 
 **About Section**: A brief introduction about myself, my passion, and what drives and motivates me.<br>
 
-**Educational Background**: My education history and a section where visitors can download your CV.<br>
+**Educational Background**: My education history and a section where visitors can download my CV.<br>
 
 **Interests**: My interests and what excites me in the tech world.<br>
 
